@@ -8,6 +8,7 @@
 //portfolio
 
 //services
+renderServices( services );
 
 //team
 
