@@ -6,9 +6,11 @@
 /* LAYOUT */
 .bg-primary {
     background-color: var(--color-primary-light);
+   color: var(--color-primary-light-anti);
 }
 .bg-grey{
     background-color: var(--color-grey);
+    color: var(--color-grey-anti);
 }
 h2{
     display: inline-block;
@@ -90,6 +92,46 @@ h2.up{
 /* ************************************************************************** */
 /* ************************************************************************** */
 /* NUMBERS*/
+.bg-achievements{
+    background-image:url(../img/work/count-bg.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.achievement{
+    display:inline-block;
+    width:25%;
+    float:left;
+    text-align:center;
+
+}
+    .achievement >.center{
+        display:inline-block;
+    }
+    .achievement i{
+        display:inline-block;
+        line-height: 60px;
+        font-size:50px;
+        text-align: right;
+    }
+    .achievement .texts{
+        display:inline-block;
+        margin-left:15px;
+        text-align:left;
+    }
+        .achievement .texts >.number{
+            display:inline-block;
+            line-height: 50px;
+            font-size:40px;
+            width:100%;
+        }
+        .achievement .texts > .title{
+            display:inline-block;
+            line-height: 20px;
+            font-size:18px;
+            text-transform: uppercase;
+        }
 
 /* ************************************************************************** */
 /* ************************************************************************** */
