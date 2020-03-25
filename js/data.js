@@ -46,6 +46,29 @@ const services = [
 //team
 
 //numbers
+const numbers=[
+    {
+        icon:'file-code-o',
+        number:130,
+        title:'Projects done'
+    },
+    {
+        icon:'smile-o',
+        number:80,
+        title:'Happy clients'
+    },
+    {
+        icon:'users',
+        number:700,
+        title:'Employess'
+    },
+    {
+        icon:'file-code-o',
+        number:90,
+        title:'Award winner'
+    }
+
+];
 
 //pricing
 

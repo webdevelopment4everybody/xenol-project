@@ -13,6 +13,7 @@ renderServices( services );
 //team
 
 //numbers
+renderAchievements( numbers );
 
 //pricing
 

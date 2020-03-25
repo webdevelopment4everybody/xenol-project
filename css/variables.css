@@ -1,6 +1,12 @@
 :root {
     --color-primary-light:#01C5FA;
+    --color-primary-light-anti:#fff;
+
     --color-primary-darke:#0065EB;
-    --color-orange:#F6B56C;
+    --color-primary-darkanti:#fff;
+
+    --color-star:#F6B56C;
+
     --color-grey:#F5F5F5;
+    --color-grey-anti:#333;
 }
