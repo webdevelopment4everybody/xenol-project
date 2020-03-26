@@ -1,5 +1,5 @@
 "use strict";
-
+const months=['Jan','Feb','Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
 //header
 
 //hero
@@ -73,6 +73,50 @@ const numbers=[
 //pricing
 
 //blog
+const blog=[
+    {
+        date: {
+            day:23,
+            month:6,
+            year: 2019
+        },
+        photo:{
+            src:'related-post-1.jpg',
+            alt:''
+        },
+        title:'BussinessStrategy Consule',
+        description:'Energistically facilitate market positioning vis-a-vis extensive niches. Competently fashion low-risk high-yield initiatives before cross-unit',
+        link:'#'
+    },
+    {
+        date: {
+            day:23,
+            month:7,
+            year: 2020
+        },
+        photo:{
+            src:'related-post-2.jpg',
+            alt:''
+        },
+        title:'Nauji metai uz kalnu',
+        description:'Energistically facilitate market positioning vis-a-vis extensive niches. Competently fashion low-risk high-yield initiatives before cross-unit',
+        link:'#'
+    },
+    {
+        date: {
+            day:23,
+            month:8,
+            year: 2020
+        },
+        photo:{
+            src:'related-post-3.jpg',
+            alt:''
+        },
+        title:'Pavasaris ir Gruodis',
+        description:'Energistically facilitate market positioning vis-a-vis extensive niches. Competently fashion low-risk high-yield initiatives before cross-unit',
+        link:'#'
+    }
+];
 
 //testimonials
 
