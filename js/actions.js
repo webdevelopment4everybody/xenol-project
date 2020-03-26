@@ -18,6 +18,7 @@ renderAchievements( numbers );
 //pricing
 
 //blog
+renderBlog(blog);
 
 //testimonials
 
