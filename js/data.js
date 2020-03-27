@@ -63,7 +63,7 @@ const numbers=[
         title:'Employess'
     },
     {
-        icon:'file-code-o',
+        icon:'trophy',
         number:90,
         title:'Award winner'
     }

@@ -61,8 +61,6 @@ h2.up{
 /* SERVICES*/
 .service{
     display:inline-block;
-    width:calc(100% / 3);
-    float:left;
     text-align:center;
     padding: 20px;
 }
@@ -101,8 +99,7 @@ h2.up{
 
 .achievement{
     display:inline-block;
-    width:25%;
-    float:left;
+    padding: 20px 0;
     text-align:center;
 
 }
@@ -117,7 +114,7 @@ h2.up{
     }
     .achievement .texts{
         display:inline-block;
-        margin-left:15px;
+        /* margin-left:15px; */
         text-align:left;
     }
         .achievement .texts >.number{
